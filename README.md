@@ -237,3 +237,11 @@ For issues or questions, please open an issue on the [GitHub repository](https:/
 ---
 
 This documentation follows **PEP 8** guidelines and provides a clear, structured guide for users to install, configure, and use the `request_sentinal` package. Let me know if you need further assistance!
+
+---
+### **Contributors**
+Vasanthkumaar S B - Performed experiments to decide upon the parameters and fall back mechanism for Dynamic Behaviour of the Server.
+
+
+
+
